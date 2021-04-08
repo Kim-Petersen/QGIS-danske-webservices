@@ -13,73 +13,73 @@ Formålet er at samle frit tilgængelige geodata i en løsning der er enkel for 
 
 Tilføjet | Beskrivelse | Type
 ---------|-------------|-----
-* [x] | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [ ] | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [x] | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [x] | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [ ] | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [ ] | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [X] | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [X] | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-* [ ] | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-* [ ] | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-* [ ] | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-* [ ] | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-* [ ] | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-* [ ] | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-* [ ] | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-* [ ] | [Aarhus Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Fyns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Københavns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Nordjyllands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Ribe Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Ringkøbing Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Sønderjyllands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Storstrøms Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Vejle Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Viborg Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Vestsjællands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
-* [ ] | [Miljøportalen Overfladevand og Luft](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [ ] | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-* [ ] | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-* [ ] | [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | WMS
-* [ ] | [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | WFS
-* [ ] | [MiljøGIS Basisanalyse vandområdeplane 2021-27](https://mst.dk/service/miljoegis/hent-data/) | WMS
-* [ ] | [MiljøGIS Basisanalyse vandområdeplane 2021-27](https://mst.dk/service/miljoegis/hent-data/) | WFS
-* [ ] | [MiljøGIS Naturmæssigt særlig værdifuld skov](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Naturmæssigt særlig værdifuld skov](https://mst.dk/service/miljoegis/) | WFS
-* [ ] | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WMS
-* [ ] | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WMTS
-* [ ] | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WFS
-* [ ] | [MiljøGIS Støjkortlægning](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Støjkortlægning](https://mst.dk/service/miljoegis/) | WFS
-* [ ] | [MiljøGIS Husdyrregulering](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Husdyrregulering](https://mst.dk/service/miljoegis/) | WFS
-* [ ] | [MiljøGIS Program for naturovervågning og 2017-21](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Program for naturovervågning og 2017-21](https://mst.dk/service/miljoegis/) | WFS
-* [ ] | [MiljøGIS Biodiversitet](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Biodiversitet](https://mst.dk/service/miljoegis/) | WMTS
-* [ ] | [MiljøGIS Råstofindvinding på havet](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Råstofindvinding på havet](https://mst.dk/service/miljoegis/) | WFS
-* [ ] | [MiljøGIS Blandede data](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS GIS til Natura2000](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS GIS til Natura2000](https://mst.dk/service/miljoegis/) | WMS
-* [ ] | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WFS
-* [ ] | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMS
-* [ ] | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMTS
-* [ ] | [MiljøGIS Støjkortet](https://mst.dk/service/miljoegis/hent-data/) | WMTS
-* [ ] | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMS
-* [ ] | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMTS
-* [ ] | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WFS
-* [ ] | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WMS
-* [ ] | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WFS
-* [x] | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WMS
-* [x] | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WFS
+:white_check_mark: | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_square:     | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_check_mark: | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark: | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_check_mark: | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark: | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_square: | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_square: | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_square: | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_square: | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_square: | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_square: | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_square: | [Aarhus Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Fyns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Københavns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Nordjyllands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Ribe Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Ringkøbing Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Sønderjyllands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Storstrøms Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Vejle Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Viborg Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Vestsjællands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
+:white_square: | [Miljøportalen Overfladevand og Luft](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_square: | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_square: | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_square: | [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | WMS
+:white_square: | [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | WFS
+:white_square: | [MiljøGIS Basisanalyse vandområdeplane 2021-27](https://mst.dk/service/miljoegis/hent-data/) | WMS
+:white_square: | [MiljøGIS Basisanalyse vandområdeplane 2021-27](https://mst.dk/service/miljoegis/hent-data/) | WFS
+:white_square: | [MiljøGIS Naturmæssigt særlig værdifuld skov](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Naturmæssigt særlig værdifuld skov](https://mst.dk/service/miljoegis/) | WFS
+:white_square: | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WMS
+:white_square: | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WMTS
+:white_square: | [MiljøGIS Kilmatilpasningsplaner](https://mst.dk/service/miljoegis/hent-data/) | WFS
+:white_square: | [MiljøGIS Støjkortlægning](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Støjkortlægning](https://mst.dk/service/miljoegis/) | WFS
+:white_square: | [MiljøGIS Husdyrregulering](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Husdyrregulering](https://mst.dk/service/miljoegis/) | WFS
+:white_square: | [MiljøGIS Program for naturovervågning og 2017-21](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Program for naturovervågning og 2017-21](https://mst.dk/service/miljoegis/) | WFS
+:white_square: | [MiljøGIS Biodiversitet](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Biodiversitet](https://mst.dk/service/miljoegis/) | WMTS
+:white_square: | [MiljøGIS Råstofindvinding på havet](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Råstofindvinding på havet](https://mst.dk/service/miljoegis/) | WFS
+:white_square: | [MiljøGIS Blandede data](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS GIS til Natura2000](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS GIS til Natura2000](https://mst.dk/service/miljoegis/) | WMS
+:white_square: | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WFS
+:white_square: | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMS
+:white_square: | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMTS
+:white_square: | [MiljøGIS Støjkortet](https://mst.dk/service/miljoegis/hent-data/) | WMTS
+:white_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMS
+:white_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMTS
+:white_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WFS
+:white_square: | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WMS
+:white_square: | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WFS
+:white_check_mark: | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WMS
+:white_check_mark: | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WFS
 
 # Bidrag
 Har du forslag til forbedringer
