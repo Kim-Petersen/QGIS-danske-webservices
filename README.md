@@ -13,16 +13,16 @@ Formålet er at samle frit tilgængelige geodata i en løsning der er enkel for 
 
 Tilføjet | Beskrivelse | Type
 ---------|-------------|-----
-:white_check_mark:    | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark:   | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-:white_check_mark:    | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-:white_check_mark:    | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_check_mark:   | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark:   | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-:white_check_mark:    | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-:white_check_mark:    | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_check_mark:   | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark:   | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
 :white_large_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
 :white_large_square: | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
@@ -78,8 +78,8 @@ Tilføjet | Beskrivelse | Type
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WFS
 :white_large_square: | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WMS
 :white_large_square: | [Landbrugsstyrelsen](https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647) | WFS
-:white_check_mark:    | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WMS
-:white_check_mark:    | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WFS
+:white_check_mark:   | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WMS
+:white_check_mark:   | [GEUS Jupiter](https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter) | WFS
 
 # Bidrag
 Har du forslag til forbedringer

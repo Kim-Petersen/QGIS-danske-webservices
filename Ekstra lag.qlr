@@ -75,7 +75,7 @@
       </layer-tree-group>
       <layer-tree-group checked="Qt::Unchecked" name="Danmarks Arealinformation Natur - WMS" expanded="0">
         <customproperties/>
-        <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=1&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=KORTLAEG_LEVESTEDER_FL&amp;styles&amp;url=https://arealinformation.miljoeportal.dk/gis/services/Natur/MapServer/WMSServer" legend_exp="" name="Kortlægning af levesteder" expanded="0" id="Kortlægning_af_levesteder_6dec4ab5_eebd_4f7a_8e93_986f5078cbc1">
+        <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=1&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=KORTLAEG_LEVESTEDER_FL&amp;styles&amp;url=https://arealinformation.miljoeportal.dk/gis/services/Natur/MapServer/WMSServer" legend_exp="" name="Kortlægning af levesteder, flader" expanded="0" id="Kortlægning_af_levesteder_6dec4ab5_eebd_4f7a_8e93_986f5078cbc1">
           <customproperties/>
         </layer-tree-layer>
         <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=1&amp;crs=EPSG:25832&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=KORTLAEG_LEVESTEDER_PKT&amp;styles&amp;url=https://arealinformation.miljoeportal.dk/gis/services/Natur/MapServer/WMSServer" legend_exp="" name="Kortlægning af levesteder, punkter" expanded="0" id="Kortlægning_af_levesteder__punkter_9a52d6df_8522_44d7_af40_1d08ff67497d">
@@ -213,7 +213,7 @@
         <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=0&amp;crs=EPSG:4326&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=jupiter_anlaeg_ws&amp;styles&amp;url=https://data.geus.dk/geusmap/ows/25832.jsp?VERSION%3D1.1.1%26LAYERS%3Djupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram" legend_exp="" name="Danske anlæg" expanded="0" id="Danske_anlæg_ab6d289e_794b_4d82_ab0e_d4f72ea8401b">
           <customproperties/>
         </layer-tree-layer>
-        <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=0&amp;crs=EPSG:4326&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=jupiter_bor_cyklogram&amp;styles&amp;url=https://data.geus.dk/geusmap/ows/25832.jsp?VERSION%3D1.1.1%26LAYERS%3Djupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram" legend_exp="" name="Lithologi som cyklogram" expanded="0" id="Lithologi_som_cyklogram_b641e595_d00d_4246_bdbd_e2b0f965ae6d">
+        <layer-tree-layer patch_size="-1,-1" legend_split_behavior="0" providerKey="wms" checked="Qt::Unchecked" source="contextualWMSLegend=0&amp;crs=EPSG:4326&amp;dpiMode=7&amp;featureCount=10&amp;format=image/png&amp;layers=jupiter_bor_cyklogram&amp;styles&amp;url=https://data.geus.dk/geusmap/ows/25832.jsp?VERSION%3D1.1.1%26LAYERS%3Djupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram" legend_exp="" name="Lithologi som cyklogram" expanded="1" id="Lithologi_som_cyklogram_b641e595_d00d_4246_bdbd_e2b0f965ae6d">
           <customproperties/>
         </layer-tree-layer>
       </layer-tree-group>
@@ -2771,7 +2771,7 @@
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>Kortlægning af levesteder</layername>
+      <layername>Kortlægning af levesteder, flader</layername>
       <srs>
         <spatialrefsys>
           <wkt>PROJCRS["ETRS89 / UTM zone 32N",BASEGEOGCRS["ETRS89",DATUM["European Terrestrial Reference System 1989",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4258]],CONVERSION["UTM zone 32N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",9,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["Europe - 6°E to 12°E and ETRS89 by country"],BBOX[38.76,6,83.92,12]],ID["EPSG",25832]]</wkt>
