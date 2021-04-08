@@ -43,6 +43,10 @@ Tilføjet | Beskrivelse | Type
 * [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Viborg Amt) | REST
 * [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Vestsjællands Amt) | REST
 * [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Miljøportalen Overfladevand og Luft) | WFS
+* [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Fortidsminder fra SKS) | WMS
+* [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Fortidsminder fra SKS) | WFS
+* [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Plandata fra Erhvervsstyrelsen) | WMS
+* [ ] | [https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices](Plandata fra Erhvervsstyrelsen) | WFS
 * [ ] | [https://mst.dk/service/miljoegis/hent-data/](MiljøGIS Natura 2000-Basisanalyse 2022-27) | WMS
 * [ ] | [https://mst.dk/service/miljoegis/hent-data/](MiljøGIS Natura 2000-Basisanalyse 2022-27) | WFS
 * [ ] | [https://mst.dk/service/miljoegis/hent-data/](MiljøGIS Basisanalyse vandområdeplane 2021-27) | WMS
@@ -68,12 +72,12 @@ Tilføjet | Beskrivelse | Type
 * [ ] | [https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf](MiljøGIS Grundvandsdata) | WFS
 * [ ] | [https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf](MiljøGIS Grundvandsdata) | WMS
 * [ ] | [https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf](MiljøGIS Grundvandsdata) | WMTS
+* [ ] | [https://mst.dk/service/miljoegis/hent-data/](MiljøGIS Støjkortet) | WMTS
 * [ ] | [https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828](Jordbrugsanalyser) | WMS
 * [ ] | [https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828](Jordbrugsanalyser) | WMS
 * [ ] | [https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828](Jordbrugsanalyser) | WMS
 * [ ] | [https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647](Landbrugsstyrelsen) | WMS
 * [ ] | [https://lbst.dk/landbrug/kort-og-markblokke/hvordan-faar-du-adgang-til-data/#c6647](Landbrugsstyrelsen) | WFS
-
 * [x] | [https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter](GEUS Jupiter) | WMS
 * [x] | [https://www.geus.dk/produkter-ydelser-og-faciliteter/data-og-kort/national-boringsdatabase-jupiter](GEUS Jupiter) | WFS
 
