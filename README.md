@@ -71,7 +71,7 @@ Tilføjet | Beskrivelse | Type
 :white_large_square: | [MiljøGIS GIS til Natura2000](https://mst.dk/service/miljoegis/) | WMS
 :white_large_square: | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WFS
 :white_check_mark:   | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMS
-:white_large_square: | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMTS
+:white_check_mark:   | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMTS
 :white_large_square: | [MiljøGIS Støjkortet](https://mst.dk/service/miljoegis/hent-data/) | WMTS
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMS
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMTS
