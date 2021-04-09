@@ -73,6 +73,8 @@ Tilføjet | Beskrivelse | Type
 :white_check_mark:   | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WMTS
 :white_check_mark:   | [MiljøGIS Grundvandsdata](https://miljoegis.mim.dk/fagtekster/grundvand/miljoestyrelsens_udstilling_af_grundvandsdata.pdf) | WFS
 :white_large_square: | [MiljøGIS Støjkortet](https://mst.dk/service/miljoegis/hent-data/) | WMTS
+:white_large_square: | [MiljøGIS Geologi](https://mst.dk/service/miljoegis/) | WMS
+:white_large_square: | [MiljøGIS Geologi](https://mst.dk/service/miljoegis/) | WFS
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMS
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WMTS
 :white_large_square: | [Jordbrugsanalyser](https://lbst.dk/landbrug/kort-og-markblokke/jordbrugsanalyser/#c39828) | WFS
