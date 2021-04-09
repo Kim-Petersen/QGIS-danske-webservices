@@ -86,5 +86,6 @@ Har du forslag til forbedringer
 * Flere datakilder?
 * Links som ikke længere er i drift?
 * Forkert tematisering?
+
 Du er velkommen til at bidrage til at gøre denne samling så god som mulig.
 Åbn et Issue, hvis du har forslag.
