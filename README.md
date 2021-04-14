@@ -17,7 +17,7 @@ Tilføjet | Beskrivelse | Type
 :white_large_square: | [Danmarks Arealinformation - DAIdb](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_check_mark:   | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_check_mark:   | [Danmarks Arealinformation - DAI - Natur](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-:white_large_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark:   | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Danmarks Arealinformation - DAI - Landbrugsdrift](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
