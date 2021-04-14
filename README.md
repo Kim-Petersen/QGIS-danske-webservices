@@ -23,14 +23,14 @@ Tilføjet | Beskrivelse | Type
 :white_large_square: | [Danmarks Arealinformation - DAI - Husdyr](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_check_mark:   | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_check_mark:   | [DKJORD](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-:white_large_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-:white_large_square: | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-:white_large_square: | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-:white_large_square: | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-:white_large_square: | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-:white_large_square: | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
-:white_large_square: | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
-:white_large_square: | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_check_mark:   | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_check_mark:   | [PULS Renseanlæg](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_check_mark:   | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_check_mark:   | [PULS Regnbetingede udløb](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_check_mark:   | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_check_mark:   | [PULS Badevand](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
+:white_check_mark:   | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WMS
+:white_check_mark:   | [PULS Akvakultur](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | WFS
 :white_large_square: | [Aarhus Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
 :white_large_square: | [Fyns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
 :white_large_square: | [Københavns Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
