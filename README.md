@@ -43,8 +43,8 @@ Tilføjet | Beskrivelse | Type
 :white_large_square: | [Viborg Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
 :white_large_square: | [Vestsjællands Amt](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | REST
 :white_large_square: | [Miljøportalen Overfladevand og Luft](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
-:white_large_square: | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
-:white_large_square: | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
+:white_check_mark:   | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
+:white_check_mark:   | [Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WMS
 :white_large_square: | [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | WFS
 :white_large_square: | [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | WMS
