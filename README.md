@@ -1,10 +1,10 @@
 # Danske webservices til QGIS
-En samling af danske WMS, WMTS, WCS og WFS geodata der udstilles uden brug af autentifikation:globe_with_meridians:.
+En samling af danske WMS, WMTS, WFS, REST geodata der udstilles uden brug af autentifikation:globe_with_meridians:
 
 Data fra Datafordeleren og Kortforsyningen medtages ikke da disse kræver adgang ved brug af [*tjenestebruger*](https://datafordeler.dk/vejledning/brugeradgang/) eller [*token*](https://apps2.kortforsyningen.dk/qgis_knap_config/QGIS3/About/qgis3about.html#brugeroprettelse) henholdsvis.
 
-Indeholder en *.qlr* fil der kan indlæses i QGIS.
-Det anbefales at ligge filen ind som en *.qlr* fil til brug sammen med [Kortforsyningens plugin til QGIS](https://apps2.kortforsyningen.dk/qgis_knap_config/QGIS3/About/qgis3about.html#tilfoejegnelag).
+Indeholder en mappestruktur med *.qlr* filer der kan indlæses i QGIS.
+Det anbefales at ligge mappestrukturen ind som en *.qlr* fil til brug sammen med [Qlr Browser pluginet](https://plugins.qgis.org/plugins/QlrBrowser/) til QGIS.
 
 # Formål
 Formålet er at samle frit tilgængelige geodata i en løsning der er enkel for brugeren at anvende.
@@ -21,7 +21,7 @@ Beskrivelse | WMS | WMTS | WFS | REST Map | REST Feature
 [PULS](https://support.miljoeportal.dk/hc/da/articles/360010519438-Webservices-PULS-data-tilg%C3%A6ngelig-p%C3%A5-nye-services-) | :white_check_mark: | :heavy_division_sign: | :white_check_mark: | :heavy_division_sign: | :heavy_division_sign:
 [Amter](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | :heavy_division_sign: | :heavy_division_sign: | :heavy_division_sign: | :white_large_square: | :white_large_square:
 [Miljøportalen Overfladevand og Luft](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | :heavy_division_sign: | :heavy_division_sign: | :white_large_square: | :heavy_division_sign: | :heavy_division_sign:
-[Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | :white_check_mark: | :heavy_division_sign: | :white_check_mark: | :heavy_division_sign: | :heavy_division_sign:
+[Fortidsminder fra SKS](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | :white_check_mark: | :heavy_division_sign: | :white_large_square: | :heavy_division_sign: | :heavy_division_sign:
 [Plandata fra Erhvervsstyrelsen](https://support.miljoeportal.dk/hc/da/articles/206950129-Webservices-Arealinformation-Arealinformation-og-Webservices) | :white_large_square: | :heavy_division_sign: | :white_large_square: | :heavy_division_sign: | :heavy_division_sign:
 [MiljøGIS Natura 2000-Basisanalyse 2022-27](https://mst.dk/service/miljoegis/hent-data/) | :white_large_square: | :heavy_division_sign: | :white_large_square: | :heavy_division_sign: | :heavy_division_sign:
 [MiljøGIS Basisanalyse vandområdeplane 2021-27](https://mst.dk/service/miljoegis/hent-data/) | :white_large_square: | :heavy_division_sign: | :white_large_square: | :heavy_division_sign: | :heavy_division_sign:

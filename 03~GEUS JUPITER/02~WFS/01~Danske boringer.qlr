@@ -1,0 +1,1014 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer name="Danske boringer" providerKey="WFS" legend_exp="" expanded="0" legend_split_behavior="0" source=" pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25832' typename='jupiter_boringer_ws' url='https://data.geus.dk/geusmap/ows/25832.jsp?LAYERS=jupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram' url='https://data.geus.dk/geusmap/ows/25832.jsp?VERSION=1.0.0&amp;LAYERS=jupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram' version='auto'" patch_size="-1,-1" id="Danske_boringer_9841e688_b35f_4ccc_b114_072dd67ee58a" checked="Qt::Checked">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" simplifyDrawingTol="1" refreshOnNotifyMessage="" simplifyLocal="1" readOnly="0" simplifyAlgorithm="0" labelsEnabled="0" minScale="100000000" geometry="Point" simplifyDrawingHints="0" autoRefreshEnabled="0" type="vector" wkbType="Point" refreshOnNotifyEnabled="0" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" maxScale="0">
+      <extent>
+        <xmin>106926</xmin>
+        <ymin>5983520</ymin>
+        <xmax>958492</xmax>
+        <ymax>6450160</ymax>
+      </extent>
+      <id>Danske_boringer_9841e688_b35f_4ccc_b114_072dd67ee58a</id>
+      <datasource> pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25832' typename='jupiter_boringer_ws' url='https://data.geus.dk/geusmap/ows/25832.jsp?LAYERS=jupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram' url='https://data.geus.dk/geusmap/ows/25832.jsp?VERSION=1.0.0&amp;LAYERS=jupiter_boringer_ws%2Cjupiter_anlaeg_ws%2Cjupiter_bor_cyklogram' version='auto'</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Danske boringer</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["ETRS89 / UTM zone 32N",BASEGEOGCRS["ETRS89",DATUM["European Terrestrial Reference System 1989",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4258]],CONVERSION["UTM zone 32N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",9,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["Europe - 6°E to 12°E and ETRS89 by country"],BBOX[38.76,6,83.92,12]],ID["EPSG",25832]]</wkt>
+          <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2105</srsid>
+          <srid>25832</srid>
+          <authid>EPSG:25832</authid>
+          <description>ETRS89 / UTM zone 32N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>true</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial miny="0" maxy="0" maxz="0" crs="" dimensions="2" minz="0" minx="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="">WFS</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="standard">
+        <map-layer-style name="standard"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal fixedDuration="0" mode="0" accumulate="0" startField="" endField="" durationField="" enabled="0" startExpression="" durationUnit="min" endExpression="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 forceraster="0" symbollevels="0" attr="kode_tekst" type="categorizedSymbol" enableorderby="0">
+        <categories>
+          <category symbol="0" render="true" value="Andet" label="Andet"/>
+          <category symbol="1" render="true" value="Geoteknisk" label="Geoteknisk"/>
+          <category symbol="2" render="true" value="Miljøboring" label="Miljøboring"/>
+          <category symbol="3" render="true" value="Råstof" label="Råstof"/>
+          <category symbol="4" render="true" value="Sløjfet" label="Sløjfet"/>
+          <category symbol="5" render="true" value="Vandboring" label="Vandboring"/>
+          <category symbol="6" render="true" value="" label="Ukendt formål/anvendelse"/>
+        </categories>
+        <symbols>
+          <symbol force_rhr="0" name="0" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="41,214,49,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="1" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="214,123,33,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="2" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="255,255,16,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="3" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="255,49,255,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="4" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="255,206,255,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="5" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="51,51,255,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+          <symbol force_rhr="0" name="6" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="16,16,24,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <source-symbol>
+          <symbol force_rhr="0" name="0" alpha="1" clip_to_extent="1" type="marker">
+            <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+              <prop v="0" k="angle"/>
+              <prop v="225,89,137,255" k="color"/>
+              <prop v="1" k="horizontal_anchor_point"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="circle" k="name"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0" k="outline_width"/>
+              <prop v="3x:0,0,0,0,0,0" k="outline_width_map_unit_scale"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="diameter" k="scale_method"/>
+              <prop v="2" k="size"/>
+              <prop v="3x:0,0,0,0,0,0" k="size_map_unit_scale"/>
+              <prop v="MM" k="size_unit"/>
+              <prop v="1" k="vertical_anchor_point"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </source-symbol>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <property key="dualview/previewExpressions" value="&quot;id&quot;"/>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory penColor="#000000" backgroundAlpha="255" penWidth="0" minScaleDenominator="0" scaleBasedVisibility="0" rotationOffset="270" showAxis="1" enabled="0" labelPlacementMethod="XHeight" barWidth="5" penAlpha="255" lineSizeType="MM" scaleDependency="Area" spacing="5" spacingUnitScale="3x:0,0,0,0,0,0" direction="0" sizeType="MM" sizeScale="3x:0,0,0,0,0,0" spacingUnit="MM" backgroundColor="#ffffff" lineSizeScale="3x:0,0,0,0,0,0" opacity="1" maxScaleDenominator="1e+08" width="15" height="15" diagramOrientation="Up" minimumSize="0">
+          <fontProperties style="" description="MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0"/>
+          <attribute color="#000000" field="" label=""/>
+          <axisSymbol>
+            <symbol force_rhr="0" name="" alpha="1" clip_to_extent="1" type="line">
+              <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+                <prop v="0" k="align_dash_pattern"/>
+                <prop v="square" k="capstyle"/>
+                <prop v="5;2" k="customdash"/>
+                <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+                <prop v="MM" k="customdash_unit"/>
+                <prop v="0" k="dash_pattern_offset"/>
+                <prop v="3x:0,0,0,0,0,0" k="dash_pattern_offset_map_unit_scale"/>
+                <prop v="MM" k="dash_pattern_offset_unit"/>
+                <prop v="0" k="draw_inside_polygon"/>
+                <prop v="bevel" k="joinstyle"/>
+                <prop v="35,35,35,255" k="line_color"/>
+                <prop v="solid" k="line_style"/>
+                <prop v="0.26" k="line_width"/>
+                <prop v="MM" k="line_width_unit"/>
+                <prop v="0" k="offset"/>
+                <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+                <prop v="MM" k="offset_unit"/>
+                <prop v="0" k="ring_filter"/>
+                <prop v="0" k="tweak_dash_pattern_on_corners"/>
+                <prop v="0" k="use_custom_dash"/>
+                <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+                <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" value="" type="QString"/>
+                    <Option name="properties"/>
+                    <Option name="type" value="collection" type="QString"/>
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </axisSymbol>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings linePlacementFlags="18" dist="0" priority="0" placement="0" obstacle="0" showAll="1" zIndex="0">
+        <properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks/>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="dgunr" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="url" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="kode" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="kode_tekst" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="postnr" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="boringsby" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="sted1" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="komnr" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="kommunenavn" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="region" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="region_tekst" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="dybde" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="dybde_num" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="dato" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="aar" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="aar_num" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="formaal" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="formaal_tekst" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="anvendelse" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="anvendelse_tekst" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="formanv" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="formanv_tekst" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="id" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="borid" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="broendborer" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="cyklogram" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="dataejer" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="anlaegid" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="anlaegnr" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="anlaegsnavn" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="journr" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="virktyp" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="virktypt" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="xutm" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="yutm" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="dgunr_org" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="txt_search" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="symbol_outline_rgb" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="rgb" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="dgunr" index="0"/>
+        <alias name="" field="url" index="1"/>
+        <alias name="" field="kode" index="2"/>
+        <alias name="" field="kode_tekst" index="3"/>
+        <alias name="" field="postnr" index="4"/>
+        <alias name="" field="boringsby" index="5"/>
+        <alias name="" field="sted1" index="6"/>
+        <alias name="" field="komnr" index="7"/>
+        <alias name="" field="kommunenavn" index="8"/>
+        <alias name="" field="region" index="9"/>
+        <alias name="" field="region_tekst" index="10"/>
+        <alias name="" field="dybde" index="11"/>
+        <alias name="" field="dybde_num" index="12"/>
+        <alias name="" field="dato" index="13"/>
+        <alias name="" field="aar" index="14"/>
+        <alias name="" field="aar_num" index="15"/>
+        <alias name="" field="formaal" index="16"/>
+        <alias name="" field="formaal_tekst" index="17"/>
+        <alias name="" field="anvendelse" index="18"/>
+        <alias name="" field="anvendelse_tekst" index="19"/>
+        <alias name="" field="formanv" index="20"/>
+        <alias name="" field="formanv_tekst" index="21"/>
+        <alias name="" field="id" index="22"/>
+        <alias name="" field="borid" index="23"/>
+        <alias name="" field="broendborer" index="24"/>
+        <alias name="" field="cyklogram" index="25"/>
+        <alias name="" field="dataejer" index="26"/>
+        <alias name="" field="anlaegid" index="27"/>
+        <alias name="" field="anlaegnr" index="28"/>
+        <alias name="" field="anlaegsnavn" index="29"/>
+        <alias name="" field="journr" index="30"/>
+        <alias name="" field="virktyp" index="31"/>
+        <alias name="" field="virktypt" index="32"/>
+        <alias name="" field="xutm" index="33"/>
+        <alias name="" field="yutm" index="34"/>
+        <alias name="" field="dgunr_org" index="35"/>
+        <alias name="" field="txt_search" index="36"/>
+        <alias name="" field="symbol_outline_rgb" index="37"/>
+        <alias name="" field="rgb" index="38"/>
+      </aliases>
+      <defaults>
+        <default applyOnUpdate="0" field="dgunr" expression=""/>
+        <default applyOnUpdate="0" field="url" expression=""/>
+        <default applyOnUpdate="0" field="kode" expression=""/>
+        <default applyOnUpdate="0" field="kode_tekst" expression=""/>
+        <default applyOnUpdate="0" field="postnr" expression=""/>
+        <default applyOnUpdate="0" field="boringsby" expression=""/>
+        <default applyOnUpdate="0" field="sted1" expression=""/>
+        <default applyOnUpdate="0" field="komnr" expression=""/>
+        <default applyOnUpdate="0" field="kommunenavn" expression=""/>
+        <default applyOnUpdate="0" field="region" expression=""/>
+        <default applyOnUpdate="0" field="region_tekst" expression=""/>
+        <default applyOnUpdate="0" field="dybde" expression=""/>
+        <default applyOnUpdate="0" field="dybde_num" expression=""/>
+        <default applyOnUpdate="0" field="dato" expression=""/>
+        <default applyOnUpdate="0" field="aar" expression=""/>
+        <default applyOnUpdate="0" field="aar_num" expression=""/>
+        <default applyOnUpdate="0" field="formaal" expression=""/>
+        <default applyOnUpdate="0" field="formaal_tekst" expression=""/>
+        <default applyOnUpdate="0" field="anvendelse" expression=""/>
+        <default applyOnUpdate="0" field="anvendelse_tekst" expression=""/>
+        <default applyOnUpdate="0" field="formanv" expression=""/>
+        <default applyOnUpdate="0" field="formanv_tekst" expression=""/>
+        <default applyOnUpdate="0" field="id" expression=""/>
+        <default applyOnUpdate="0" field="borid" expression=""/>
+        <default applyOnUpdate="0" field="broendborer" expression=""/>
+        <default applyOnUpdate="0" field="cyklogram" expression=""/>
+        <default applyOnUpdate="0" field="dataejer" expression=""/>
+        <default applyOnUpdate="0" field="anlaegid" expression=""/>
+        <default applyOnUpdate="0" field="anlaegnr" expression=""/>
+        <default applyOnUpdate="0" field="anlaegsnavn" expression=""/>
+        <default applyOnUpdate="0" field="journr" expression=""/>
+        <default applyOnUpdate="0" field="virktyp" expression=""/>
+        <default applyOnUpdate="0" field="virktypt" expression=""/>
+        <default applyOnUpdate="0" field="xutm" expression=""/>
+        <default applyOnUpdate="0" field="yutm" expression=""/>
+        <default applyOnUpdate="0" field="dgunr_org" expression=""/>
+        <default applyOnUpdate="0" field="txt_search" expression=""/>
+        <default applyOnUpdate="0" field="symbol_outline_rgb" expression=""/>
+        <default applyOnUpdate="0" field="rgb" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dgunr"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="url"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="kode"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="kode_tekst"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="postnr"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="boringsby"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="sted1"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="komnr"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="kommunenavn"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="region"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="region_tekst"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dybde"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dybde_num"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dato"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="aar"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="aar_num"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="formaal"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="formaal_tekst"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="anvendelse"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="anvendelse_tekst"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="formanv"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="formanv_tekst"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="id"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="borid"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="broendborer"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="cyklogram"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dataejer"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="anlaegid"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="anlaegnr"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="anlaegsnavn"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="journr"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="virktyp"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="virktypt"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="xutm"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="yutm"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="dgunr_org"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="txt_search"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="symbol_outline_rgb"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="rgb"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="dgunr" desc="" exp=""/>
+        <constraint field="url" desc="" exp=""/>
+        <constraint field="kode" desc="" exp=""/>
+        <constraint field="kode_tekst" desc="" exp=""/>
+        <constraint field="postnr" desc="" exp=""/>
+        <constraint field="boringsby" desc="" exp=""/>
+        <constraint field="sted1" desc="" exp=""/>
+        <constraint field="komnr" desc="" exp=""/>
+        <constraint field="kommunenavn" desc="" exp=""/>
+        <constraint field="region" desc="" exp=""/>
+        <constraint field="region_tekst" desc="" exp=""/>
+        <constraint field="dybde" desc="" exp=""/>
+        <constraint field="dybde_num" desc="" exp=""/>
+        <constraint field="dato" desc="" exp=""/>
+        <constraint field="aar" desc="" exp=""/>
+        <constraint field="aar_num" desc="" exp=""/>
+        <constraint field="formaal" desc="" exp=""/>
+        <constraint field="formaal_tekst" desc="" exp=""/>
+        <constraint field="anvendelse" desc="" exp=""/>
+        <constraint field="anvendelse_tekst" desc="" exp=""/>
+        <constraint field="formanv" desc="" exp=""/>
+        <constraint field="formanv_tekst" desc="" exp=""/>
+        <constraint field="id" desc="" exp=""/>
+        <constraint field="borid" desc="" exp=""/>
+        <constraint field="broendborer" desc="" exp=""/>
+        <constraint field="cyklogram" desc="" exp=""/>
+        <constraint field="dataejer" desc="" exp=""/>
+        <constraint field="anlaegid" desc="" exp=""/>
+        <constraint field="anlaegnr" desc="" exp=""/>
+        <constraint field="anlaegsnavn" desc="" exp=""/>
+        <constraint field="journr" desc="" exp=""/>
+        <constraint field="virktyp" desc="" exp=""/>
+        <constraint field="virktypt" desc="" exp=""/>
+        <constraint field="xutm" desc="" exp=""/>
+        <constraint field="yutm" desc="" exp=""/>
+        <constraint field="dgunr_org" desc="" exp=""/>
+        <constraint field="txt_search" desc="" exp=""/>
+        <constraint field="symbol_outline_rgb" desc="" exp=""/>
+        <constraint field="rgb" desc="" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns>
+          <column hidden="0" name="dgunr" type="field" width="-1"/>
+          <column hidden="0" name="url" type="field" width="-1"/>
+          <column hidden="0" name="kode" type="field" width="-1"/>
+          <column hidden="0" name="kode_tekst" type="field" width="-1"/>
+          <column hidden="0" name="postnr" type="field" width="-1"/>
+          <column hidden="0" name="boringsby" type="field" width="-1"/>
+          <column hidden="0" name="sted1" type="field" width="-1"/>
+          <column hidden="0" name="komnr" type="field" width="-1"/>
+          <column hidden="0" name="kommunenavn" type="field" width="-1"/>
+          <column hidden="0" name="region" type="field" width="-1"/>
+          <column hidden="0" name="region_tekst" type="field" width="-1"/>
+          <column hidden="0" name="dybde" type="field" width="-1"/>
+          <column hidden="0" name="dybde_num" type="field" width="-1"/>
+          <column hidden="0" name="dato" type="field" width="-1"/>
+          <column hidden="0" name="aar" type="field" width="-1"/>
+          <column hidden="0" name="aar_num" type="field" width="-1"/>
+          <column hidden="0" name="formaal" type="field" width="-1"/>
+          <column hidden="0" name="formaal_tekst" type="field" width="-1"/>
+          <column hidden="0" name="anvendelse" type="field" width="-1"/>
+          <column hidden="0" name="anvendelse_tekst" type="field" width="-1"/>
+          <column hidden="0" name="formanv" type="field" width="-1"/>
+          <column hidden="0" name="formanv_tekst" type="field" width="-1"/>
+          <column hidden="0" name="id" type="field" width="-1"/>
+          <column hidden="0" name="borid" type="field" width="-1"/>
+          <column hidden="0" name="broendborer" type="field" width="-1"/>
+          <column hidden="0" name="cyklogram" type="field" width="-1"/>
+          <column hidden="0" name="dataejer" type="field" width="-1"/>
+          <column hidden="0" name="anlaegid" type="field" width="-1"/>
+          <column hidden="0" name="anlaegnr" type="field" width="-1"/>
+          <column hidden="0" name="anlaegsnavn" type="field" width="-1"/>
+          <column hidden="0" name="journr" type="field" width="-1"/>
+          <column hidden="0" name="virktyp" type="field" width="-1"/>
+          <column hidden="0" name="virktypt" type="field" width="-1"/>
+          <column hidden="0" name="xutm" type="field" width="-1"/>
+          <column hidden="0" name="yutm" type="field" width="-1"/>
+          <column hidden="0" name="dgunr_org" type="field" width="-1"/>
+          <column hidden="0" name="txt_search" type="field" width="-1"/>
+          <column hidden="0" name="symbol_outline_rgb" type="field" width="-1"/>
+          <column hidden="0" name="rgb" type="field" width="-1"/>
+          <column hidden="1" type="actions" width="-1"/>
+        </columns>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS form kan have en Python funktion der kaldes når formen bliver
+åbnet.
+
+Brug denne funktion til at tilføje ekstra logik til dine former.
+
+Indtast funktionsnavnet i "Python Init function"
+feltet.
+Et eksempel:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field name="aar" editable="1"/>
+        <field name="aar_num" editable="1"/>
+        <field name="anlaegid" editable="1"/>
+        <field name="anlaegnr" editable="1"/>
+        <field name="anlaegsnavn" editable="1"/>
+        <field name="anvendelse" editable="1"/>
+        <field name="anvendelse_tekst" editable="1"/>
+        <field name="borid" editable="1"/>
+        <field name="boringsby" editable="1"/>
+        <field name="broendborer" editable="1"/>
+        <field name="cyklogram" editable="1"/>
+        <field name="dataejer" editable="1"/>
+        <field name="dato" editable="1"/>
+        <field name="dgunr" editable="1"/>
+        <field name="dgunr_org" editable="1"/>
+        <field name="dybde" editable="1"/>
+        <field name="dybde_num" editable="1"/>
+        <field name="formaal" editable="1"/>
+        <field name="formaal_tekst" editable="1"/>
+        <field name="formanv" editable="1"/>
+        <field name="formanv_tekst" editable="1"/>
+        <field name="id" editable="1"/>
+        <field name="journr" editable="1"/>
+        <field name="kode" editable="1"/>
+        <field name="kode_tekst" editable="1"/>
+        <field name="kommunenavn" editable="1"/>
+        <field name="komnr" editable="1"/>
+        <field name="postnr" editable="1"/>
+        <field name="region" editable="1"/>
+        <field name="region_tekst" editable="1"/>
+        <field name="rgb" editable="1"/>
+        <field name="sted1" editable="1"/>
+        <field name="symbol_outline_rgb" editable="1"/>
+        <field name="txt_search" editable="1"/>
+        <field name="url" editable="1"/>
+        <field name="virktyp" editable="1"/>
+        <field name="virktypt" editable="1"/>
+        <field name="xutm" editable="1"/>
+        <field name="yutm" editable="1"/>
+      </editable>
+      <labelOnTop>
+        <field name="aar" labelOnTop="0"/>
+        <field name="aar_num" labelOnTop="0"/>
+        <field name="anlaegid" labelOnTop="0"/>
+        <field name="anlaegnr" labelOnTop="0"/>
+        <field name="anlaegsnavn" labelOnTop="0"/>
+        <field name="anvendelse" labelOnTop="0"/>
+        <field name="anvendelse_tekst" labelOnTop="0"/>
+        <field name="borid" labelOnTop="0"/>
+        <field name="boringsby" labelOnTop="0"/>
+        <field name="broendborer" labelOnTop="0"/>
+        <field name="cyklogram" labelOnTop="0"/>
+        <field name="dataejer" labelOnTop="0"/>
+        <field name="dato" labelOnTop="0"/>
+        <field name="dgunr" labelOnTop="0"/>
+        <field name="dgunr_org" labelOnTop="0"/>
+        <field name="dybde" labelOnTop="0"/>
+        <field name="dybde_num" labelOnTop="0"/>
+        <field name="formaal" labelOnTop="0"/>
+        <field name="formaal_tekst" labelOnTop="0"/>
+        <field name="formanv" labelOnTop="0"/>
+        <field name="formanv_tekst" labelOnTop="0"/>
+        <field name="id" labelOnTop="0"/>
+        <field name="journr" labelOnTop="0"/>
+        <field name="kode" labelOnTop="0"/>
+        <field name="kode_tekst" labelOnTop="0"/>
+        <field name="kommunenavn" labelOnTop="0"/>
+        <field name="komnr" labelOnTop="0"/>
+        <field name="postnr" labelOnTop="0"/>
+        <field name="region" labelOnTop="0"/>
+        <field name="region_tekst" labelOnTop="0"/>
+        <field name="rgb" labelOnTop="0"/>
+        <field name="sted1" labelOnTop="0"/>
+        <field name="symbol_outline_rgb" labelOnTop="0"/>
+        <field name="txt_search" labelOnTop="0"/>
+        <field name="url" labelOnTop="0"/>
+        <field name="virktyp" labelOnTop="0"/>
+        <field name="virktypt" labelOnTop="0"/>
+        <field name="xutm" labelOnTop="0"/>
+        <field name="yutm" labelOnTop="0"/>
+      </labelOnTop>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression>"id"</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>

@@ -1,0 +1,672 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" expanded="1" checked="Qt::Checked">
+    <customproperties/>
+    <layer-tree-layer name="Naturbsigtigelse, flader" providerKey="WFS" legend_exp="" expanded="1" legend_split_behavior="0" source=" pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25832' typename='dmp:NAT_BESIGTIGELSER_FL' url='https://arealinformation.miljoeportal.dk/gis/services/Natur/MapServer/WFSServer' version='auto'" patch_size="-1,-1" id="Naturbsigtigelse__flader_f8097f8b_87d5_46d0_9777_2f120a291e4c" checked="Qt::Checked">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer styleCategories="AllStyleCategories" autoRefreshTime="0" simplifyDrawingTol="1" refreshOnNotifyMessage="" simplifyLocal="1" readOnly="0" simplifyAlgorithm="0" labelsEnabled="0" minScale="100000000" geometry="Polygon" simplifyDrawingHints="1" autoRefreshEnabled="0" type="vector" wkbType="MultiPolygon" refreshOnNotifyEnabled="0" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" maxScale="0">
+      <extent>
+        <xmin>-169182.6163473988417536</xmin>
+        <ymin>5934526.64564240630716085</ymin>
+        <xmax>1147139.392486801603809</xmax>
+        <ymax>6610456.86227449588477612</ymax>
+      </extent>
+      <id>Naturbsigtigelse__flader_f8097f8b_87d5_46d0_9777_2f120a291e4c</id>
+      <datasource> pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25832' typename='dmp:NAT_BESIGTIGELSER_FL' url='https://arealinformation.miljoeportal.dk/gis/services/Natur/MapServer/WFSServer' version='auto'</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Naturbsigtigelse, flader</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt>PROJCRS["ETRS89 / UTM zone 32N",BASEGEOGCRS["ETRS89",DATUM["European Terrestrial Reference System 1989",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4258]],CONVERSION["UTM zone 32N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",9,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["unknown"],AREA["Europe - 6°E to 12°E and ETRS89 by country"],BBOX[38.76,6,83.92,12]],ID["EPSG",25832]]</wkt>
+          <proj4>+proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+          <srsid>2105</srsid>
+          <srid>25832</srid>
+          <authid>EPSG:25832</authid>
+          <description>ETRS89 / UTM zone 32N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial miny="0" maxy="0" maxz="0" crs="" dimensions="2" minz="0" minx="0" maxx="0"/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="">WFS</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="standard">
+        <map-layer-style name="standard"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <temporal fixedDuration="0" mode="2" accumulate="0" startField="STARTDATO" endField="STARTDATO" durationField="" enabled="0" startExpression="" durationUnit="min" endExpression="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol force_rhr="0" name="0" alpha="1" clip_to_extent="1" type="fill">
+            <layer class="SimpleFill" locked="0" pass="0" enabled="1">
+              <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+              <prop v="202,130,0,255" k="color"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="202,130,0,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0.26" k="outline_width"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="horizontal" k="style"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory penColor="#000000" backgroundAlpha="255" penWidth="0" minScaleDenominator="0" scaleBasedVisibility="0" rotationOffset="270" showAxis="1" enabled="0" labelPlacementMethod="XHeight" barWidth="5" penAlpha="255" lineSizeType="MM" scaleDependency="Area" spacing="5" spacingUnitScale="3x:0,0,0,0,0,0" direction="0" sizeType="MM" sizeScale="3x:0,0,0,0,0,0" spacingUnit="MM" backgroundColor="#ffffff" lineSizeScale="3x:0,0,0,0,0,0" opacity="1" maxScaleDenominator="1e+08" width="15" height="15" diagramOrientation="Up" minimumSize="0">
+          <fontProperties style="" description="MS Shell Dlg 2,7.8,-1,5,50,0,0,0,0,0"/>
+          <attribute color="#000000" field="" label=""/>
+          <axisSymbol>
+            <symbol force_rhr="0" name="" alpha="1" clip_to_extent="1" type="line">
+              <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+                <prop v="0" k="align_dash_pattern"/>
+                <prop v="square" k="capstyle"/>
+                <prop v="5;2" k="customdash"/>
+                <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+                <prop v="MM" k="customdash_unit"/>
+                <prop v="0" k="dash_pattern_offset"/>
+                <prop v="3x:0,0,0,0,0,0" k="dash_pattern_offset_map_unit_scale"/>
+                <prop v="MM" k="dash_pattern_offset_unit"/>
+                <prop v="0" k="draw_inside_polygon"/>
+                <prop v="bevel" k="joinstyle"/>
+                <prop v="35,35,35,255" k="line_color"/>
+                <prop v="solid" k="line_style"/>
+                <prop v="0.26" k="line_width"/>
+                <prop v="MM" k="line_width_unit"/>
+                <prop v="0" k="offset"/>
+                <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+                <prop v="MM" k="offset_unit"/>
+                <prop v="0" k="ring_filter"/>
+                <prop v="0" k="tweak_dash_pattern_on_corners"/>
+                <prop v="0" k="use_custom_dash"/>
+                <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+                <data_defined_properties>
+                  <Option type="Map">
+                    <Option name="name" value="" type="QString"/>
+                    <Option name="properties"/>
+                    <Option name="type" value="collection" type="QString"/>
+                  </Option>
+                </data_defined_properties>
+              </layer>
+            </symbol>
+          </axisSymbol>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings linePlacementFlags="18" dist="0" priority="0" placement="1" obstacle="0" showAll="1" zIndex="0">
+        <properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <geometryOptions removeDuplicateNodes="0" geometryPrecision="0">
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option name="QgsGeometryGapCheck" type="Map">
+            <Option name="allowedGapsBuffer" value="0" type="double"/>
+            <Option name="allowedGapsEnabled" value="false" type="bool"/>
+            <Option name="allowedGapsLayer" value="" type="QString"/>
+          </Option>
+        </checkConfiguration>
+      </geometryOptions>
+      <legend type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field name="TEMAKODE" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="TEMANAVN" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OBJEKT_ID" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="VERSION_ID" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="SYSTID_FRA" configurationFlags="None">
+          <editWidget type="DateTime">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="SYSTID_TIL" configurationFlags="None">
+          <editWidget type="DateTime">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OPRETTET" configurationFlags="None">
+          <editWidget type="DateTime">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OPRINDKODE" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OPRINDELSE" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="STATUSKODE" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="STATUS" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OFF_KODE" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="OFFENTLIG" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="CVR_KODE" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="CVR_NAVN" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="BRUGER_ID" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="LINK" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="PROGRAM" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="AKTIVITETSTYPE" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="INSTITUTIONSNAVN" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="STEDNAVN" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="STARTDATO" configurationFlags="None">
+          <editWidget type="DateTime">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="NATURTYPE" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="NATURTILSTANDSINDEKS" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="STRUKTURINDEKS" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ARTSINDEKS" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="AKTID" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="SARLINK" configurationFlags="None">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ID" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ESRI_OID" configurationFlags="None">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="TEMAKODE" index="0"/>
+        <alias name="" field="TEMANAVN" index="1"/>
+        <alias name="" field="OBJEKT_ID" index="2"/>
+        <alias name="" field="VERSION_ID" index="3"/>
+        <alias name="" field="SYSTID_FRA" index="4"/>
+        <alias name="" field="SYSTID_TIL" index="5"/>
+        <alias name="" field="OPRETTET" index="6"/>
+        <alias name="" field="OPRINDKODE" index="7"/>
+        <alias name="" field="OPRINDELSE" index="8"/>
+        <alias name="" field="STATUSKODE" index="9"/>
+        <alias name="" field="STATUS" index="10"/>
+        <alias name="" field="OFF_KODE" index="11"/>
+        <alias name="" field="OFFENTLIG" index="12"/>
+        <alias name="" field="CVR_KODE" index="13"/>
+        <alias name="" field="CVR_NAVN" index="14"/>
+        <alias name="" field="BRUGER_ID" index="15"/>
+        <alias name="" field="LINK" index="16"/>
+        <alias name="" field="PROGRAM" index="17"/>
+        <alias name="" field="AKTIVITETSTYPE" index="18"/>
+        <alias name="" field="INSTITUTIONSNAVN" index="19"/>
+        <alias name="" field="STEDNAVN" index="20"/>
+        <alias name="" field="STARTDATO" index="21"/>
+        <alias name="" field="NATURTYPE" index="22"/>
+        <alias name="" field="NATURTILSTANDSINDEKS" index="23"/>
+        <alias name="" field="STRUKTURINDEKS" index="24"/>
+        <alias name="" field="ARTSINDEKS" index="25"/>
+        <alias name="" field="AKTID" index="26"/>
+        <alias name="" field="SARLINK" index="27"/>
+        <alias name="" field="ID" index="28"/>
+        <alias name="" field="ESRI_OID" index="29"/>
+      </aliases>
+      <defaults>
+        <default applyOnUpdate="0" field="TEMAKODE" expression=""/>
+        <default applyOnUpdate="0" field="TEMANAVN" expression=""/>
+        <default applyOnUpdate="0" field="OBJEKT_ID" expression=""/>
+        <default applyOnUpdate="0" field="VERSION_ID" expression=""/>
+        <default applyOnUpdate="0" field="SYSTID_FRA" expression=""/>
+        <default applyOnUpdate="0" field="SYSTID_TIL" expression=""/>
+        <default applyOnUpdate="0" field="OPRETTET" expression=""/>
+        <default applyOnUpdate="0" field="OPRINDKODE" expression=""/>
+        <default applyOnUpdate="0" field="OPRINDELSE" expression=""/>
+        <default applyOnUpdate="0" field="STATUSKODE" expression=""/>
+        <default applyOnUpdate="0" field="STATUS" expression=""/>
+        <default applyOnUpdate="0" field="OFF_KODE" expression=""/>
+        <default applyOnUpdate="0" field="OFFENTLIG" expression=""/>
+        <default applyOnUpdate="0" field="CVR_KODE" expression=""/>
+        <default applyOnUpdate="0" field="CVR_NAVN" expression=""/>
+        <default applyOnUpdate="0" field="BRUGER_ID" expression=""/>
+        <default applyOnUpdate="0" field="LINK" expression=""/>
+        <default applyOnUpdate="0" field="PROGRAM" expression=""/>
+        <default applyOnUpdate="0" field="AKTIVITETSTYPE" expression=""/>
+        <default applyOnUpdate="0" field="INSTITUTIONSNAVN" expression=""/>
+        <default applyOnUpdate="0" field="STEDNAVN" expression=""/>
+        <default applyOnUpdate="0" field="STARTDATO" expression=""/>
+        <default applyOnUpdate="0" field="NATURTYPE" expression=""/>
+        <default applyOnUpdate="0" field="NATURTILSTANDSINDEKS" expression=""/>
+        <default applyOnUpdate="0" field="STRUKTURINDEKS" expression=""/>
+        <default applyOnUpdate="0" field="ARTSINDEKS" expression=""/>
+        <default applyOnUpdate="0" field="AKTID" expression=""/>
+        <default applyOnUpdate="0" field="SARLINK" expression=""/>
+        <default applyOnUpdate="0" field="ID" expression=""/>
+        <default applyOnUpdate="0" field="ESRI_OID" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="TEMAKODE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="TEMANAVN"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OBJEKT_ID"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="VERSION_ID"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="SYSTID_FRA"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="SYSTID_TIL"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OPRETTET"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OPRINDKODE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OPRINDELSE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="STATUSKODE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="STATUS"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OFF_KODE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="OFFENTLIG"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="CVR_KODE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="CVR_NAVN"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="BRUGER_ID"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="LINK"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="PROGRAM"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="AKTIVITETSTYPE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="INSTITUTIONSNAVN"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="STEDNAVN"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="STARTDATO"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="NATURTYPE"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="NATURTILSTANDSINDEKS"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="STRUKTURINDEKS"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="ARTSINDEKS"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="AKTID"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="SARLINK"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="ID"/>
+        <constraint constraints="0" notnull_strength="0" unique_strength="0" exp_strength="0" field="ESRI_OID"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint field="TEMAKODE" desc="" exp=""/>
+        <constraint field="TEMANAVN" desc="" exp=""/>
+        <constraint field="OBJEKT_ID" desc="" exp=""/>
+        <constraint field="VERSION_ID" desc="" exp=""/>
+        <constraint field="SYSTID_FRA" desc="" exp=""/>
+        <constraint field="SYSTID_TIL" desc="" exp=""/>
+        <constraint field="OPRETTET" desc="" exp=""/>
+        <constraint field="OPRINDKODE" desc="" exp=""/>
+        <constraint field="OPRINDELSE" desc="" exp=""/>
+        <constraint field="STATUSKODE" desc="" exp=""/>
+        <constraint field="STATUS" desc="" exp=""/>
+        <constraint field="OFF_KODE" desc="" exp=""/>
+        <constraint field="OFFENTLIG" desc="" exp=""/>
+        <constraint field="CVR_KODE" desc="" exp=""/>
+        <constraint field="CVR_NAVN" desc="" exp=""/>
+        <constraint field="BRUGER_ID" desc="" exp=""/>
+        <constraint field="LINK" desc="" exp=""/>
+        <constraint field="PROGRAM" desc="" exp=""/>
+        <constraint field="AKTIVITETSTYPE" desc="" exp=""/>
+        <constraint field="INSTITUTIONSNAVN" desc="" exp=""/>
+        <constraint field="STEDNAVN" desc="" exp=""/>
+        <constraint field="STARTDATO" desc="" exp=""/>
+        <constraint field="NATURTYPE" desc="" exp=""/>
+        <constraint field="NATURTILSTANDSINDEKS" desc="" exp=""/>
+        <constraint field="STRUKTURINDEKS" desc="" exp=""/>
+        <constraint field="ARTSINDEKS" desc="" exp=""/>
+        <constraint field="AKTID" desc="" exp=""/>
+        <constraint field="SARLINK" desc="" exp=""/>
+        <constraint field="ID" desc="" exp=""/>
+        <constraint field="ESRI_OID" desc="" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns>
+          <column hidden="0" name="TEMAKODE" type="field" width="-1"/>
+          <column hidden="0" name="TEMANAVN" type="field" width="-1"/>
+          <column hidden="0" name="OBJEKT_ID" type="field" width="-1"/>
+          <column hidden="0" name="VERSION_ID" type="field" width="-1"/>
+          <column hidden="0" name="SYSTID_FRA" type="field" width="-1"/>
+          <column hidden="0" name="SYSTID_TIL" type="field" width="-1"/>
+          <column hidden="0" name="OPRETTET" type="field" width="-1"/>
+          <column hidden="0" name="OPRINDKODE" type="field" width="-1"/>
+          <column hidden="0" name="OPRINDELSE" type="field" width="-1"/>
+          <column hidden="0" name="STATUSKODE" type="field" width="-1"/>
+          <column hidden="0" name="STATUS" type="field" width="-1"/>
+          <column hidden="0" name="OFF_KODE" type="field" width="-1"/>
+          <column hidden="0" name="OFFENTLIG" type="field" width="-1"/>
+          <column hidden="0" name="CVR_KODE" type="field" width="-1"/>
+          <column hidden="0" name="CVR_NAVN" type="field" width="-1"/>
+          <column hidden="0" name="BRUGER_ID" type="field" width="-1"/>
+          <column hidden="0" name="LINK" type="field" width="-1"/>
+          <column hidden="0" name="PROGRAM" type="field" width="-1"/>
+          <column hidden="0" name="AKTIVITETSTYPE" type="field" width="-1"/>
+          <column hidden="0" name="INSTITUTIONSNAVN" type="field" width="-1"/>
+          <column hidden="0" name="STEDNAVN" type="field" width="-1"/>
+          <column hidden="0" name="STARTDATO" type="field" width="-1"/>
+          <column hidden="0" name="NATURTYPE" type="field" width="-1"/>
+          <column hidden="0" name="NATURTILSTANDSINDEKS" type="field" width="-1"/>
+          <column hidden="0" name="STRUKTURINDEKS" type="field" width="-1"/>
+          <column hidden="0" name="ARTSINDEKS" type="field" width="-1"/>
+          <column hidden="0" name="AKTID" type="field" width="-1"/>
+          <column hidden="0" name="SARLINK" type="field" width="-1"/>
+          <column hidden="0" name="ID" type="field" width="-1"/>
+          <column hidden="0" name="ESRI_OID" type="field" width="-1"/>
+          <column hidden="1" type="actions" width="-1"/>
+        </columns>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS form kan have en Python funktion der kaldes når formen bliver
+åbnet.
+
+Brug denne funktion til at tilføje ekstra logik til dine former.
+
+Indtast funktionsnavnet i "Python Init function"
+feltet.
+Et eksempel:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field name="AKTID" editable="1"/>
+        <field name="AKTIVITETSTYPE" editable="1"/>
+        <field name="ARTSINDEKS" editable="1"/>
+        <field name="BRUGER_ID" editable="1"/>
+        <field name="CVR_KODE" editable="1"/>
+        <field name="CVR_NAVN" editable="1"/>
+        <field name="ESRI_OID" editable="1"/>
+        <field name="ID" editable="1"/>
+        <field name="INSTITUTIONSNAVN" editable="1"/>
+        <field name="LINK" editable="1"/>
+        <field name="NATURTILSTANDSINDEKS" editable="1"/>
+        <field name="NATURTYPE" editable="1"/>
+        <field name="OBJEKT_ID" editable="1"/>
+        <field name="OFFENTLIG" editable="1"/>
+        <field name="OFF_KODE" editable="1"/>
+        <field name="OPRETTET" editable="1"/>
+        <field name="OPRINDELSE" editable="1"/>
+        <field name="OPRINDKODE" editable="1"/>
+        <field name="PROGRAM" editable="1"/>
+        <field name="SARLINK" editable="1"/>
+        <field name="STARTDATO" editable="1"/>
+        <field name="STATUS" editable="1"/>
+        <field name="STATUSKODE" editable="1"/>
+        <field name="STEDNAVN" editable="1"/>
+        <field name="STRUKTURINDEKS" editable="1"/>
+        <field name="SYSTID_FRA" editable="1"/>
+        <field name="SYSTID_TIL" editable="1"/>
+        <field name="TEMAKODE" editable="1"/>
+        <field name="TEMANAVN" editable="1"/>
+        <field name="VERSION_ID" editable="1"/>
+      </editable>
+      <labelOnTop>
+        <field name="AKTID" labelOnTop="0"/>
+        <field name="AKTIVITETSTYPE" labelOnTop="0"/>
+        <field name="ARTSINDEKS" labelOnTop="0"/>
+        <field name="BRUGER_ID" labelOnTop="0"/>
+        <field name="CVR_KODE" labelOnTop="0"/>
+        <field name="CVR_NAVN" labelOnTop="0"/>
+        <field name="ESRI_OID" labelOnTop="0"/>
+        <field name="ID" labelOnTop="0"/>
+        <field name="INSTITUTIONSNAVN" labelOnTop="0"/>
+        <field name="LINK" labelOnTop="0"/>
+        <field name="NATURTILSTANDSINDEKS" labelOnTop="0"/>
+        <field name="NATURTYPE" labelOnTop="0"/>
+        <field name="OBJEKT_ID" labelOnTop="0"/>
+        <field name="OFFENTLIG" labelOnTop="0"/>
+        <field name="OFF_KODE" labelOnTop="0"/>
+        <field name="OPRETTET" labelOnTop="0"/>
+        <field name="OPRINDELSE" labelOnTop="0"/>
+        <field name="OPRINDKODE" labelOnTop="0"/>
+        <field name="PROGRAM" labelOnTop="0"/>
+        <field name="SARLINK" labelOnTop="0"/>
+        <field name="STARTDATO" labelOnTop="0"/>
+        <field name="STATUS" labelOnTop="0"/>
+        <field name="STATUSKODE" labelOnTop="0"/>
+        <field name="STEDNAVN" labelOnTop="0"/>
+        <field name="STRUKTURINDEKS" labelOnTop="0"/>
+        <field name="SYSTID_FRA" labelOnTop="0"/>
+        <field name="SYSTID_TIL" labelOnTop="0"/>
+        <field name="TEMAKODE" labelOnTop="0"/>
+        <field name="TEMANAVN" labelOnTop="0"/>
+        <field name="VERSION_ID" labelOnTop="0"/>
+      </labelOnTop>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression>"OBJEKT_ID"</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
